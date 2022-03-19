@@ -11,7 +11,7 @@ header .short-bio {
     right: 5%;
     width: 80%;
     text-align: right;
-    font-size: 3vh;
+    font-size: 5vw;
 }
 
 header .title {
@@ -21,13 +21,19 @@ header .title {
 }
 
 header .title h1 {
-    font-size: 4vh;
+    font-size: 6vw;
     margin: 0;
 }
 
 header .title h2 {
-    font-size: 4vh;
+    font-size: 7vw;
     margin: 0;
+}
+
+article {
+    background-image: url("images/jungle.jpeg");
+    height: 50vh;
+    font-size: 4vw;
 }
 
 
